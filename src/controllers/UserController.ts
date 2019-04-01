@@ -12,4 +12,5 @@ class UserController {
     return res.json(user)
   }
 }
+
 export default new UserController()

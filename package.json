@@ -29,6 +29,8 @@
     "typescript": "^3.4.1"
   },
   "dependencies": {
+    "@types/amqplib": "^0.5.11",
+    "amqplib": "^0.5.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "mongoose": "^5.4.20"
